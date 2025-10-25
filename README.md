@@ -1,4 +1,4 @@
 # Html_portfolio
-This is just my first lil project by using html only
+I am just learning to upload the stuf on git hub 
 <br>
 yeah it is working
